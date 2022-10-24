@@ -7,3 +7,5 @@ This code was used in analyses for:
 [BighornHomeRanges.R](https://github.com/tywerdel/BighornSpaceUse/blob/main/BighornHomeRanges.R) includes R code to determine MCP and KDE home range estimates.
 
 [BighornMoveCodeNew.R](https://github.com/tywerdel/BighornSpaceUse/blob/main/BighornMoveCodeNew.R) includes R code to determine GPS collar activity, movement, and BBMM home range estimates.
+
+These specific codes were some of my first experiences with R, so they are not the most efficient, but they get the job done. 
