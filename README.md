@@ -8,4 +8,6 @@ This code was used in analyses for:
 
 [BighornMoveCodeNew.R](https://github.com/tywerdel/BighornSpaceUse/blob/main/BighornMoveCodeNew.R) includes R code to determine GPS collar activity, movement, and BBMM home range estimates.
 
+The included .csv files are referenced in the code, and their inclusion will allow you to reproduce the analyses used in the manuscript.
+
 These specific codes were some of my first experiences with R, so they are not the most efficient, but they get the job done. 
